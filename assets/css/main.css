@@ -2275,9 +2275,10 @@ button,
 
 /* === Portfolio: Cereal Nutrition Dashboard === */
 .posts article.portfolio-cereal .image img {
-  max-height: 220px;      /* controla a altura */
+  max-height: 400px;      /* controla a altura */
   width: 100%;
   object-fit: cover;     /* corta sem distorcer */
 }
+
 
 
