@@ -2273,11 +2273,6 @@ button,
     margin-top: 0;
     padding-top: 0; }
 
-/* === Portfolio: Cereal Nutrition Dashboard === */
-.posts article.portfolio-cereal .image img {
-  max-height: 400px;      /* controla a altura */
-  width: 100%;
-}
 
 
 
